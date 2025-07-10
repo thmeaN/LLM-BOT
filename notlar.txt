@@ -1,0 +1,8 @@
+# pip kütüphane kaydetme
+
+pip freeze > requirements.txt
+
+# requirements indirme
+
+pip install -r requirements.txt
+
